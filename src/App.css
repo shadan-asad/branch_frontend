@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: rgb(69, 185, 69);
+  height: 12px;
+  padding: 10px;
+  color: white;
+}
+
+.chatSection {
+  width: '97%';
+  height: '90vh';
+  margin-left: '3vh'
+}
+.myborder {
+  border-right: '2px solid #e0e0e0'
+}
+
+
+
